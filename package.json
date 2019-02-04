@@ -1,0 +1,25 @@
+{
+  "name": "generator-recro",
+  "version": "1.0.0",
+  "description": "A simple scaffolding tool for various backend and frontend projects. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "yeoman-generator",
+    "generator",
+    "scaffolding",
+    "recrosoft",
+    "recro",
+    "nodejs",
+    "backend",
+    "api",
+    "rest"
+  ],
+  "author": "Shreyansh Pandey <shreyansh.pandey@recro.io>",
+  "license": "MIT",
+  "dependencies": {
+    "yeoman-generator": "^3.2.0"
+  }
+}
